@@ -1,13 +1,7 @@
+import React from 'react';
+
 export default function App() {
   return (
-    <div className="App"></div>
+    <div className="App" />
   );
 }
-
-
-// TODO LIST:
-
-// CONTINUNE PRACTICING STYLED COMPONENTS...
-// PRETTY EASY TO BE HONEST, WORK ON GETTING A THEME TOGETHER FOR A PROJECT.
-// THE CHAT SITE WOULD BE A GOOD IDEA BUT A LITTLE BIG, SOMETHING SIMPLE WITH AN API
-// TWO TONNED PROJECT, MAYBE FRONTEND PROJECT IDEAS?
