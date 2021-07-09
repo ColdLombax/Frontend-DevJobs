@@ -1,7 +1,11 @@
 import React from 'react';
 
+import Theme from './Theme';
+
 export default function App() {
   return (
-    <div className="App" />
+    <Theme>
+      <h1>Hello World</h1>
+    </Theme>
   );
 }
